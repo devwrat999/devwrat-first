@@ -1,0 +1,69 @@
+                          LANGUAGE TRANSLATOR
+                            (RESEARCH PAPER)
+
+
+CONSTRUCTION AND WORKING :
+
+First I  install a dataset of google translator , this dataset includes , probably all the languages .
+User can choose their input language and it will out in output selected language . I used graphics form this library  
+“tkinter” for making a interface of my languageTranslator , in this interface I put the label text of both source text and destination text 
+And then I make a three combo boxes , first box  is for input language which is user environment language , 
+and second box is convert button which convert the first box language to third box language , and at last 
+the third box which contain the output language that user wants to change in after selecting the the first
+box language and third box language we press the second box which is button and then it convert the language
+and display in the destination area box. 
+
+ABSTRACT : 
+
+This research focus on language translator concept or their implication
+,which inspired from google translator, and a part of a mini project . The  main goal of 
+this to make a tool that simplifies the communication between different languages.
+This paper discuss the project objectives , methodologies aur their outcomes.
+Implementation involves the development of model which converts the text form one
+Language to another language . the translator utilize techniques such as natural 
+Language processing and neural networks. The results show that the translator works
+ effectively for simple phrases and sentences. Although it is not as robust as Google 
+Translate, this project demonstrates how smaller-scale implementations can solve real-
+world challenges.
+This paper introduces the motivations behind the mini-project and outlines its 
+implementation process. It discusses how NLP and machine learning concepts were used 
+to create a functional translator. The project serves as a foundational step to understand 
+advanced translation systems and highlights the challenges faced during development.
+
+
+BACKGROUND STUDY
+
+1.  Neural Machine Translation (NMT): Studies emphasize NMT models effectiveness in improving translation accuracy and handling complex sentence structures.
+2.  Sequence-to-Sequence Models: These models are widely used in translation systems, processing input text as a sequence and producing translated text as another sequence.
+3.  Attention Mechanisms: These mechanisms focus on specific parts of a sentence to better understand context.
+4.  Rule-Based vs Statistical Methods: Traditional methods relied on predefined rules, while statistical approaches showed better scalability and performance.
+5.  Challenges: Common issues include handling idiomatic expressions, maintaining context, and managing grammatical differences.
+  
+
+PROPOSED METHODOLOGY
+1.  Data Collection: A dataset containing text in two languages was collected for training and testing.
+2.  Preprocessing: Text preprocessing included tasks such as tokenization, removing stop words, and normalizing data to improve translation accuracy.
+3.  Model Selection: A sequence-to-sequence neural network with an attention mechanism was chosen for implementation.
+4.  Training: The model was trained on the dataset to learn translation patterns and generate outputs.
+5.  Evaluation: The performance of the translator was evaluated using BLEU (Bilingual Evaluation Understudy) scores and user feedback.
+
+RESULT
+
+The language translator successfully translates simple phrases and sentences with reasonable accuracy.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                             BY-DEVWRAT
+                                                                                                                                                                                              
